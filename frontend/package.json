@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "react-bootstrap": "^1.4.3"
+  },
+  "proxy": "http://api.typeform.com"
+}
